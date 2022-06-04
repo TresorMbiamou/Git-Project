@@ -1,0 +1,1 @@
+{"distributionId": "string", "objectPaths": ["/*"]}
